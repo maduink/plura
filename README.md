@@ -13,3 +13,5 @@ Para as Empresas: Nossa ferramenta se integra com as principais plataformas de R
 ##
 
 Acreditamos em uma implementação flexível, com um prazo médio de 3 meses para a integração total via API, permitindo que o impacto comece a ser gerado rapidamente. A Plura é a prova de que a tecnologia, quando bem aplicada, pode criar um futuro mais equitativo e acessível para todos.
+
+https://drive.google.com/file/d/192UBPRtT4mT9qlaJxTqn8zidwjpGfiKU/view?usp=sharing
