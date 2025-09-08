@@ -1,4 +1,4 @@
-# Plura: Inclusão que transforma ✨
+# 💜 Plura: Inclusão que transforma ✨
 
 Identificamos uma lacuna no mercado de trabalho que precisa de atenção: a falta de acessibilidade para que profissionais PCDs encontrem vagas que valorizem seu potencial. 
 
