@@ -16,4 +16,5 @@ Acreditamos em uma implementação flexível, com um prazo médio de 3 meses par
 
 Vídeo de apresentação da plataforma: https://drive.google.com/file/d/192UBPRtT4mT9qlaJxTqn8zidwjpGfiKU/view?usp=sharing
 ---
-Canva: 
+Canva: https://drive.google.com/file/d/15C9Q9wZ0VbkFnOIaiqa-fQUZRmMscaQq/view?usp=sharing
+---
