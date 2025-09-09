@@ -20,3 +20,4 @@ Canva: https://drive.google.com/file/d/15C9Q9wZ0VbkFnOIaiqa-fQUZRmMscaQq/view?us
 ---
 Figma: https://www.figma.com/proto/1bGgqXV9TUX9HaM9YKwgl0/Plura--Inclus%C3%A3o-que-transforma?node-id=0-420&p=f&t=OkzuGebebBNlU6iq-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=0%3A839
 ---
+Referências: https://drive.google.com/file/d/15GUInccsHjHYqDLZZ4QQgqik-nKxd5Gl/view?usp=sharing
